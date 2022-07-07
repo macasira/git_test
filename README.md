@@ -1,3 +1,3 @@
 # git_test
-desc
+description
 Hello Odin!
